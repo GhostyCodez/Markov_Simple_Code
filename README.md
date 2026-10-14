@@ -1,2 +1,2 @@
-# Markov_things
+# Markov_Simple_Code
 Markov code sample
